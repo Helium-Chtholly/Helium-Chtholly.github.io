@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Helium-Chtholly.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-04-10T15:15:14.274Z</updated>
+    <title>Helium-Chtholly的博客</title>
+    <updated>2020-04-10T15:18:14.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Helium-Chtholly.github.io"/>
     <link rel="self" href="https://Helium-Chtholly.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>热爱珂学</subtitle>
     <logo>https://Helium-Chtholly.github.io/images/avatar.png</logo>
     <icon>https://Helium-Chtholly.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Helium-Chtholly的博客</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://Helium-Chtholly.github.io/post/hello-gridea/</id>
